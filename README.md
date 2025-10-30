@@ -14,16 +14,17 @@ To write a program to find the solution of a matrix using Gaussian Elimination.
 4. 
 
 ## Program:
-```
-/*
+
 Program to find the solution of a matrix using Gaussian Elimination.
-Developed by: 
-RegisterNumber: 
-*/
-```
+Developed by: V.Dineshkarthikeyan
+RegisterNumber:25012548
+<img width="1260" height="650" alt="Screenshot 2025-10-30 141422" src="https://github.com/user-attachments/assets/afe6b3e8-d616-4f94-8e94-6fe7b2505dcd" />
+
 
 ## Output:
 ![gaussian elimination]()
+<img width="1274" height="583" alt="Screenshot 2025-10-30 141454" src="https://github.com/user-attachments/assets/cbd95634-55b5-48a8-9725-5b48e60d4001" />
+
 
 
 ## Result:
